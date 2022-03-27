@@ -15,7 +15,7 @@ body, html
 
 .bgimg 
 {
-  background-image: url('https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-image: url('/assets/bg.jpeg');
   min-height: 100%;
   background-position: center;
   background-size: cover;

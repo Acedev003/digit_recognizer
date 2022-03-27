@@ -15,7 +15,7 @@ body, html
 
 .bgimg 
 {
-  background-image: url('/assets/bg.jpeg');
+  background-image: url('/digit_recognizer/assets/bg.jpeg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
